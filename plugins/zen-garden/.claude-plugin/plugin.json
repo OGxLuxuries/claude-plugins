@@ -1,1 +1,7 @@
-{ "name": "zen-garden", "version": "0.1.0", "description": "A calm Japanese-garden look: beige shoji paper, moss green, bamboo in the wind, still water." }
+{
+  "name": "zen-garden",
+  "version": "0.1.0",
+  "description": "A calm Japanese-garden look: beige shoji paper, moss green, bamboo in the wind, still water.",
+  "author": { "name": "OGxLuxuries", "url": "https://github.com/OGxLuxuries" },
+  "repository": "https://github.com/OGxLuxuries/claude-plugins"
+}
