@@ -1,0 +1,17 @@
+{
+  "name": "og",
+  "owner": { "name": "OGxLuxuries", "url": "https://github.com/OGxLuxuries" },
+  "metadata": { "description": "OGxLuxuries' Claude plugins." },
+  "plugins": [
+    {
+      "name": "codex-subagent",
+      "source": { "source": "github", "repo": "OGxLuxuries/codex-run" },
+      "description": "Delegate bounded subtasks to OpenAI Codex via the Codex CLI (codex exec), watched live in a Terminal tab."
+    },
+    {
+      "name": "zen-garden",
+      "source": "./plugins/zen-garden",
+      "description": "Japanese zen garden look: beige shoji paper, bamboo, koi pond, wind."
+    }
+  ]
+}
